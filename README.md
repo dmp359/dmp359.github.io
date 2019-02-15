@@ -1,2 +1,2 @@
 # portfolio-website
-My website
+Repo for my personal website
