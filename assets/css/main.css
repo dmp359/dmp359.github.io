@@ -1644,7 +1644,7 @@
 /* Type */
 
 	body {
-		background-color: #42bce8;
+		background-color: #2D4571;
 		color: rgba(255, 255, 255, 0.65);
 	}
 
@@ -3303,7 +3303,7 @@
 /* Main */
 
 	#main {
-		background-color: #ffffff;
+		background-color: #fcfcfc;
 		color: #636363;
 		border-radius: 0.25em;
 	}
