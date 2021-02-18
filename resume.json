@@ -1,0 +1,145 @@
+{
+  "selectedTemplate": 1,
+  "headings": {
+    "work": "Work Experience",
+    "education": "Education",
+    "skills": "Skills",
+    "projects": "Projects",
+    "awards": "Awards"
+  },
+  "basics": {
+    "name": "Daniel Perlman",
+    "phone": "2153176969",
+    "website": "dan-perlman.com",
+    "location": {
+      "address": "Philadelphia, PA"
+    },
+    "email": "dan.perlman2@gmail.com"
+  },
+  "education": [
+    {
+      "institution": "Drexel University",
+      "location": "Philadelphia, PA",
+      "area": "Computer Science",
+      "studyType": "BS",
+      "startDate": "Sep 2014",
+      "endDate": "Jun 2019",
+      "gpa": "3.92"
+    }
+  ],
+  "work": [
+    {
+      "website": "",
+      "startDate": "Oct 2019",
+      "endDate": "Present",
+      "highlights": [
+        "Sole front end developer on two complete React applications aimed to display customer data",
+        "Created automated testing pipeline and CircleCI processes",
+        "Maintained shared Storybook component library for consistency between all future web applications"
+      ],
+      "company": "Insituware",
+      "position": "Front End Web Developer",
+      "location": "Glassboro, NJ"
+    },
+    {
+      "highlights": [
+        "Created various components for a React application that displays companies' advertisement expenditures",
+        "Developed internal tools to improve continuous integration in startup environment",
+        "Setup an end-to-end automated browser testing framework for improved quality assurance"
+      ],
+      "company": "Amino Payments",
+      "position": "Software Developer, Co-op",
+      "location": "Philadelphia, PA",
+      "startDate": "Apr 2018",
+      "endDate": "Sep 2018"
+    },
+    {
+      "highlights": [
+        "Created various tools and scripts to better validate schema xml files in the Bentley ECObjects domain",
+        "Assisted in fixing bugs and improving desktop application for viewing metadata schemas",
+        "Set up a unit testing framework for web application prototype for viewing metadata schemas"
+      ],
+      "company": "Bentley Systems",
+      "position": "Software Developer, Co-op",
+      "location": "Philadelphia, PA",
+      "startDate": "Apr 2017",
+      "endDate": "Sep 2017"
+    },
+    {
+      "highlights": [
+        "Automated manual test cases for web application, Pi Coresight, with Selenium",
+        "Assisted in fixing bugs and improving software with scrum methodology",
+        "Implemented a production-quality color picker for upcoming release with AngularJS"
+      ],
+      "company": "OSISoft",
+      "position": "Software Developer, Co-op",
+      "location": "Philadelphia, PA",
+      "startDate": "Mar 2016",
+      "endDate": "Sep 2016"
+    }
+  ],
+  "skills": [
+    {
+      "level": "",
+      "keywords": [
+        "Javascript, Python, HTML, CSS, Java, C, C++, C#, SQL"
+      ],
+      "name": "Languages"
+    },
+    {
+      "keywords": [
+        "Web Design, React, Redux, VueJS, AWS, Database Design, CI, Automated Testing"
+      ],
+      "name": "Skills"
+    },
+    {
+      "keywords": [
+        ""
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "keywords": [
+        null
+      ],
+      "name": "GitHub",
+      "url": "https://github.com/dmp359/"
+    },
+    {
+      "keywords": [
+        null
+      ],
+      "name": "Drexel Senior Design",
+      "description": "An application to automate the counting of eosinophil cells on a digital slide of human tissue with the aid of an ML model.",
+      "url": "http://cci.drexel.edu/SeniorDesign/2018_2019/DigPath/index.html"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Summa Cum Laude",
+      "date": "Jun 2019",
+      "awarder": "Drexel University"
+    },
+    {
+      "title": "Pennoni Honors College Graduate",
+      "date": "Jun 2019",
+      "awarder": "Drexel University"
+    },
+    {
+      "title": "DragonHacks Grand Prize Winner",
+      "date": "Jan 2018",
+      "awarder": "Major League Hacking",
+      "summary": "Created an Alexa skill that served as a musician's practice tool"
+    }
+  ],
+  "sections": [
+    "templates",
+    "profile",
+    "education",
+    "work",
+    "skills",
+    "projects",
+    "awards"
+  ]
+}
